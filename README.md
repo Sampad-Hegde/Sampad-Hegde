@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampad-hegde&show_icons=true&locale=en&layout=compact" alt="sampad-hegde" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampad-hegde&show_icons=true&locale=en" alt="sampad-hegde" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampad-hegde&" alt="sampad-hegde" /></p>
